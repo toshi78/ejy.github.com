@@ -18,11 +18,13 @@ $(document).ready(function() {
 			},
 			{
 				title: "Medsin Explained (LT3)",
-				start: '2011-10-04 18:30:00'
+				start: '2011-10-04 18:30:00',
+				description: "Do you want to get involved in charity at Medschool and have a lot of fun while doing something amazing? If so come along to LT3 at 6.30pm on Tuesday 4th October - get that date in your diary - it will all make sense when you arrive! All the charities in Medschool will briefly tell you what they do and then you'll have the chance to sign up for the ones you think look best. Remember, refreshments are supplied! See you there!"
 			},
 			{
 				title: "Bristol Pear Student Stop AIDS Speaker Tour",
-				start: '2011-10-14 19:30:00'
+				start: '2011-10-14 19:30:00',
+				description: "The Student Stop AIDS speaker tour is an informative and emotive event. Held in an informal setting, the Bristol Pear pub and with light refreshments provided, 3 speakers who have been affected by (but not necessarily infected by) HIV/AIDS tell us their stories. Bring as many friends as you can, this is an evening for anyone who takes an interest in people! It will start between 7 and 8pm (more details nearer the time) and as ever there will be a lively Medbar afterwards. So get a round in and settle down for interesting evening."
 			},
 			{
 				title: "Dr Nicholl Health at Guantanamo Bay (Location TBC)",

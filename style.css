@@ -84,7 +84,7 @@ p{
 	text-align:left;
 	height:122px;
 	background: url(images/strip-shadow-red.png) top right no-repeat;
-	padding:30px 0 0 50px;
+	padding:25px 0 0 50px;
 }
 
 #attention-buttons a{
@@ -111,6 +111,14 @@ p{
 	color:#fff;
 	padding:20px 0 0 0;
 	font-size:0.9em;
+}
+
+#committee{
+	font-size: 14px;
+}
+
+#committee h4{
+	font-size: 20px;
 }
 
 ul, ol { 
@@ -169,7 +177,7 @@ ul.features li img{
 
 img.center, img.left, img.right{
 	padding:4px;
-	 background:#eee;
+	background:#eee;
 	border:1px solid #ddd;
 	margin:0 0px 15px 0;
 }
